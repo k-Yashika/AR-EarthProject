@@ -28,7 +28,9 @@ When biodiversity button is clicked:
 ![photo_6230917757814290754_y](https://github.com/k-Yashika/AR-EarthProject/assets/96520667/0c867df5-7b2b-421a-bd00-87cb55a87f88)
 
 Unity Scene View:
-![6_bio](https://github.com/k-Yashika/AR-EarthProject/assets/96520667/54903d8e-6cce-4b05-b13d-3f688e92582f)
 
 ![5_bio](https://github.com/k-Yashika/AR-EarthProject/assets/96520667/94459643-7b87-46e5-8ac6-d7f3090cd741)
+
+![6_bio](https://github.com/k-Yashika/AR-EarthProject/assets/96520667/54903d8e-6cce-4b05-b13d-3f688e92582f)
+
 
